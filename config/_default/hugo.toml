@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "/"
+baseURL = "https://gm-mzv.github.io/cmnew/public/"
 title = "EChB-Gemeinde Meinerzhagen-Valbert"
 theme = "airspace-hugo"
 
