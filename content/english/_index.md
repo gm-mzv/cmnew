@@ -5,10 +5,10 @@ banner:
   bg_image: "images/main-bible.jpg"
   bg_overlay: true
   title: "Jesus ist der Weg, die Wahrheit und das Leben."
-  content: "Du möchtest mehr über unseren Glauben und unserer Leben mit Gott erfahren?"
+  content: "Sonntaggottesdienste um 10 Uhr in Hösinghausen 2, Meinerzhagen"
   button:
     enable: true
-    label: "Hier gehts zu unseren Veranstaltungen"
+    label: "Hier gehts zu unseren weiteren Gottesdiensten und Verandtaltungen"
     link: "veranstaltungen/"
 
 ############################# About #################################
@@ -27,20 +27,13 @@ about:
 ######################### Portfolio ###############################
 portfolio:
   enable: true
-  bg_image: "images/aktuelles.jpg"
+  bg_image: "images/aktuell.jpg"
   title: "AKTUELLES"
-  content: " Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-  "
+  content: "Hier findest du die aktuellen Informationen zu unserem Gemeindeleben, anstehende Gottesdienste und Veranstaltungen."
   button:
     enable: true
-    label: "View Works"
-    link: "blog/"
+    label: "Aktuelle Information"
+    link: "aktuelles/"
 
 
 ############################# Service ############################
@@ -52,58 +45,11 @@ service:
 ############################ call to action ###########################
 cta:
   enable: true
-  bg_image: "images/call-to-action-bg.jpg"
-  title: "DU HAST FRAGEN?"
-  content: "Wenn du uns nicht persönlich besuchen kannst, schreib uns deine Fragen, wir antworten dir gerne."
+  bg_image: "images/main-bible.jpg"
+  title: "Du möchtest uns kontaktieren?"
+  content: ""
   button:
     enable: true
     label: "Nachricht schreiben"
-    link: "contact/"
-
-############################# Funfacts ###############################
-funfacts:
-  enable: true
-  title: "Fun Facts About Us"
-  description: "'Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics'"
-  funfact_item:
-  # funfacts item loop
-  - icon: "fas fa-mug-hot" #https://fontawesome.com/v5.15/icons
-    name: "Cups Of Coffee"
-    count: "99"
-
-  # funfacts item loop
-  - icon: "fas fa-glasses" #https://fontawesome.com/v5.15/icons
-    name: "Article Written"
-    count: "45"
-
-  # funfacts item loop
-  - icon: "fas fa-keyboard" #https://fontawesome.com/v5.15/icons
-    name: "Projects Completed"
-    count: "125"
-
-  # funfacts item loop
-  - icon: "fas fa-clock" #https://fontawesome.com/v5.15/icons
-    name: "Combined Projects"
-    count: "200"
-
-  testimonial_slider:
-  # testimonial item loop
-  - name: "Raymond Roy"
-    image: "images/clients/avater-1.jpg"
-    designation: "CEO-Themefisher"
-    content: "This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."
-
-  # testimonial item loop
-  - name: "Randi Renin"
-    image: "images/clients/avater-1.jpg"
-    designation: "CEO-Themefisher"
-    content: "This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."
-
-  # testimonial item loop
-  - name: "Rose Rio"
-    image: "images/clients/avater-3.jpg"
-    designation: "CEO-Themefisher"
-    content: "This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."
-
-
+    link: "kontakt/"
 ---

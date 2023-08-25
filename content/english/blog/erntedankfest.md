@@ -4,8 +4,7 @@ date: 2021-04-01T00:00:00+01:00
 author: John Doe
 image : "images/blog/erntedank-22.jpg"
 bg_image: "images/feature-bg.jpg"
-categories: ["Technical Assistance"]
-tags: ["How to", "Technology"]
+tags: ["erntedank", "gottesdienst", "fest"]
 draft: false
 type: "post"
 ---
