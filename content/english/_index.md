@@ -8,7 +8,7 @@ banner:
   content: "Sonntaggottesdienste um 10 Uhr in Hösinghausen 2, Meinerzhagen"
   button:
     enable: true
-    label: "Hier gehts zu unseren weiteren Gottesdiensten und Verandtaltungen"
+    label: "Zu den Gottesdiensten"
     link: "veranstaltungen/"
 
 ############################# About #################################
@@ -27,7 +27,7 @@ about:
 ######################### Portfolio ###############################
 portfolio:
   enable: true
-  bg_image: "images/aktuell.jpg"
+  bg_image: "images/aktl.jpg"
   title: "AKTUELLES"
   content: "Hier findest du die aktuellen Informationen zu unserem Gemeindeleben, anstehende Gottesdienste und Veranstaltungen."
   button:
