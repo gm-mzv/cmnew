@@ -26,5 +26,5 @@ ggflag: "main"
 Der Sonntaggottesdienst ist für uns jedes Mal wie ein Fest. Wir versammeln uns, um gemeinsam mit Liedern, Zeugnissen und Gebeten
 unseren wunderbaren Gott zu loben und anzubeten. Die Bibel, seine Wort, steht dabei im Mittelpunkt unserer Gottesdienste und wird in den Predigten vorgelesen und ausgelegt, sowie zur Ermutigung und Ermahnung der Anwesenden dargereicht. 
 
-Erlebe einen unserer Gottesdienste und erfahre mehr über Gott! "ir laden herzelich ein!
+Erlebe einen unserer Gottesdienste und erfahre mehr über Gott! Wir laden herzelich ein!
 

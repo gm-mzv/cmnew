@@ -47,8 +47,7 @@ featured_service:
 service:
   enable : true
   title : "Unser Glaubensbekenntnis"
-  description : "Wir haben eine klare Stellung zu Gott, der Bibel, dem Menschen und vielen anderen Dingen. 
-                Hier sind unsere 8 grundlegenden Bekenntnisse aufgeführt. "
+  description : "Wir haben eine klare Stellung zu Gott, der Bibel und dem Menschen. Hier folgen die 8 grundlegenden Punkte:"
   service_item:
     # service item loop
     - icon : fas fa-dice-three #https://fontawesome.com/v5.15/icons
