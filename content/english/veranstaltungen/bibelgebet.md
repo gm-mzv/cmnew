@@ -1,6 +1,6 @@
 ---
 title: "Bibelstudium & Gebet"
-description: "Mittwoch, 19:00 Uhr"
+description: "Freitag, 19:00 Uhr"
 draft: false
 image : "images/beten.png"
 bg_image: "images/main-bible-small.jpg"

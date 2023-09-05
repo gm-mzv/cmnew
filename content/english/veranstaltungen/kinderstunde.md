@@ -16,6 +16,6 @@ information:
 ggflag: "false"
 ---
 
-Wir laden ganz herzlich zu unseren Kinderstunden am Dienstag ein. Diese werden mit interessanten Geschichten aus der Bibel, gemeinsamem Singen und Spielen gestatltet. 
+Wir laden ganz herzlich zu unseren Kinderstunden am Dienstag ein. Diese werden mit interessanten Geschichten aus der Bibel, gemeinsamem Singen und Spielen gestaltet. 
 
 Du bist herzlich eingeladen, dabei zu sein!
