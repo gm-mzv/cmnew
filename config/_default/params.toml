@@ -18,10 +18,11 @@ image = "images/logo.png" # this image will be used as fallback if a page has no
 # Whether to display text descriptors (like "E-mail: ", "Phone: ") before the address block elements
 address_descriptors = false
 # contact info
-phone = "+4912345678"
+ansprechpartner = "Andreas Klassen"
+phone = "+491708162855"
 email = "info@christen-meinerzhagen.de"
 location = """
-**Evangeliumschristen Baptisten**  
+**Evangeliums-Christen Baptisten**  
 Hösinghausen 2      
 50540 Meinerzhagen      
 **Deutschland**

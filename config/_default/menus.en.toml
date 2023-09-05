@@ -21,6 +21,10 @@ name = "Kontakt"
 url = "kontakt/"
 weight = 4
 
+[[main]]
+name = "Impressum"
+url = "impressum/"
+weight = 5
 
 # footer menu
 [[footer]]
@@ -37,3 +41,8 @@ weight = 3
 name = "Kontakt"
 url = "kontakt/"
 weight = 4
+
+[[footer]]
+name = "Impressum"
+url = "impressum/"
+weight = 5

@@ -2,7 +2,7 @@
 ############################### Banner ##############################
 banner:
   enable: true
-  bg_image: "images/main-bible.jpg"
+  bg_image: "images/main-bible-small.jpg"
   bg_overlay: true
   title: "Jesus ist der Weg, die Wahrheit und das Leben."
   content: "Sonntaggottesdienste um 10 Uhr in Hösinghausen 2, Meinerzhagen"
@@ -10,6 +10,10 @@ banner:
     enable: true
     label: "Zu den Gottesdiensten"
     link: "veranstaltungen/"
+  aktuellesButton:
+    enable: true
+    label: "Erntedankfest am 17.09"
+    link: "aktuelles/erntedank"
 
 ############################# About #################################
 about:
@@ -45,11 +49,35 @@ service:
 ############################ call to action ###########################
 cta:
   enable: true
-  bg_image: "images/main-bible.jpg"
+  bg_image: "images/main-bible-small.jpg"
   title: "Du möchtest uns kontaktieren?"
   content: ""
   button:
     enable: true
-    label: "Nachricht schreiben"
+    label: "Zum Kontakt"
     link: "kontakt/"
+
+
+funfacts:
+  enable: true
+
+  testimonial_slider:
+  # testimonial item loop
+  - name: "Andreas Klassen"
+    image: "images/andreas-klassen.jpg"
+    designation: "Pastor"
+    content: "+491708162855"
+
+  # testimonial item loop
+  - name: "Andreas Dorn"
+    image: "images/andreas-dorn.jpg"
+    designation: "Pastor"
+    content: "+4915253818382"
+
+  # testimonial item loop
+  - name: "Tom Pankratz"
+    image: "images/tom-pankratz.jpg"
+    designation: "Pastor"
+    content: "+4915785766934"
+
 ---

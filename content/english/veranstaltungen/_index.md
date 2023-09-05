@@ -1,6 +1,9 @@
 ---
-title: "Unsere Veranstaltungen"
+title: "Gottesdienste & Veranstaltungen"
 description: ""
 draft: false
-bg_image: "images/main-bible.jpg"
+bg_image: "images/main-bible-small.jpg"
+gtitle: "Gottesdienste"
+vtitle: "Weitere Veranstaltungen"
 ---
+

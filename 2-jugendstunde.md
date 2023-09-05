@@ -22,4 +22,4 @@ information:
 
 Wir laden ganz herzlich zu unseren Jugendstunden ein. Diese werden mit interessanten Themen, Vorträgen oder einfachem Bibelstudium gestaltet und oft auch mit Gemeinschaften bei einem Kaffee  umrahmt. 
 
-Sei dabei! 
+Du bist herzlich eingeladen, dabei zu sein!

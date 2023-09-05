@@ -1,6 +1,7 @@
 # Simple translations without pluralization rules
 404_message = "Tut uns leid – diese Seite existiert nicht (mehr)."
 address_title = "Adresse"
+impressum_title = ""
 all = "Alle"
 buy_now = "Kaufen"
 categories = "Kategorien"
