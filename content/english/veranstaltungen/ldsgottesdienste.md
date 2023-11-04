@@ -23,7 +23,7 @@ ggflag: "main"
 
 ## Gottesdienste in der "Stadt des Lichts" - Lüdenscheid
 
-### Der Gottedienst in Lüdenscheid wird ebenfalls von unserer Ortsgemeinde organisiert und durchgeführt. Auch hier steht das Wort Gottes im Mittelpunkt und wird in den Predigten vorgelesen und ausgelegt. Der Gottesdienst wird außerdem mit Gemeindegesang, persönlichen Beiträgen, Liedern und gemeinsamem Gebet gestaltet. 
+### Der Gottesdienst in Lüdenscheid wird ebenfalls von unserer Ortsgemeinde organisiert und durchgeführt. Auch hier steht das Wort Gottes im Mittelpunkt und wird in den Predigten vorgelesen und ausgelegt. Der Gottesdienst wird außerdem mit Gemeindegesang, persönlichen Beiträgen, Liedern und gemeinsamem Gebet gestaltet. 
 
 ### Erlebe einen unserer Gottesdienste in Lüdenscheid und erfahre mehr über Gott! Wir laden herzelich ein!
 

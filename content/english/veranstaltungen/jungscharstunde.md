@@ -18,6 +18,6 @@ ggflag: "false"
 
 ## 
 
-### Unsere Jungscharstunden werden ganz unterschiedliche gestaltet. Gemeinsames Singen, Lesen in der Bibel und Gebet, aber auch Spiele und gemeinsames Essen stehen hier gewöhnlich auf dem Plan.  
+### Unsere Jungscharstunden werden ganz unterschiedlich gestaltet. Gemeinsames Singen, Lesen in der Bibel und Gebet, aber auch Spiele und gemeinsames Essen stehen hier gewöhnlich auf dem Plan.  
 
 ### Du bist herzlich eingeladen, dabei zu sein!
