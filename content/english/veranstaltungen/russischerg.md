@@ -1,15 +1,15 @@
 ---
-title: "Russischer Gottesdienst"
+title: "Russischer/Ukrainischer Gottesdienst"
 description: "Sonntag, 16:00 Uhr"
 draft: false
-image : "images/main-bible-small.jpg"
+image : "images/russgod.jpg"
 bg_image: "images/gottesdienst1.jpg"
 category: "Video"
 information:
   - label : "Wann"
     info : "Sonntag 16:00 Uhr"
   - label : "Wer"
-    info : "Russischsprachige"
+    info : "Russisch-/Ukrainischsprachige"
   - label : "Wo"
     info : "Hösinghausen 2, Meinerzhagen"
   - label : "Thema"
@@ -21,8 +21,9 @@ information:
 ggflag: "true"
 ---
 
-Am Sonntag um 16:00 feiern unsere Geschwister, die aus der Ukraine geflüchtet sind, ihren Gottesdienst.
-Dieser wird auf russisch und ukrainisch durchgeführt.
+## Gottesdienste der geflüchteten Geschwister
 
-Du bist herzlich eingeladen, dabei zu sein!
+### Am Sonntag um 16:00 feiern unsere Geschwister, die aus der Ukraine geflüchtet sind, ihren Gottesdienst. Dieser wird auf russisch und ukrainisch durchgeführt.
+
+### Du bist herzlich eingeladen, dabei zu sein!
 

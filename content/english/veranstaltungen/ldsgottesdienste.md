@@ -2,7 +2,7 @@
 title: "Gottesdienst in Lüdenscheid"
 description: "um 11:00 Uhr"
 draft: false
-image : "images/main-bible-small.jpg"
+image : "images/ludgod.jpg"
 bg_image: "images/lds.jpg"
 category: "Video"
 information:
@@ -21,10 +21,9 @@ information:
 ggflag: "main"
 ---
 
-## Gottesdienst feiern 
+## Gottesdienste in der "Stadt des Lichts" - Lüdenscheid
 
-Der Sonntaggottesdienst ist für uns jedes Mal wie ein Fest. Wir versammeln uns, um gemeinsam mit Liedern, Zeugnissen und Gebeten
-unseren wunderbaren Gott zu loben und anzubeten. Die Bibel, seine Wort, steht dabei im Mittelpunkt unserer Gottesdienste und wird in den Predigten vorgelesen und ausgelegt, sowie zur Ermutigung und Ermahnung der Anwesenden dargereicht. 
+### Der Gottedienst in Lüdenscheid wird ebenfalls von unserer Ortsgemeinde organisiert und durchgeführt. Auch hier steht das Wort Gottes im Mittelpunkt und wird in den Predigten vorgelesen und ausgelegt. Der Gottesdienst wird außerdem mit Gemeindegesang, persönlichen Beiträgen, Liedern und gemeinsamem Gebet gestaltet. 
 
-Erlebe einen unserer Gottesdienste und erfahre mehr über Gott! Wir laden herzelich ein!
+### Erlebe einen unserer Gottesdienste in Lüdenscheid und erfahre mehr über Gott! Wir laden herzelich ein!
 

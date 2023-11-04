@@ -16,6 +16,8 @@ information:
 ggflag: "false"
 ---
 
-Wir laden ganz herzlich zu unseren Jugendstunden ein. Diese werden mit interessanten Themen, Vorträgen oder einfachem Bibelstudium gestaltet und oft auch mit Gemeinschaften bei einem Kaffee  umrahmt. 
+## Jung zu sein ist schön - gerettet noch besser!
 
-Du bist herzlich eingeladen, dabei zu sein!
+### Wir laden ganz herzlich zu unseren Jugendstunden ein. Diese werden mit interessanten Themen, Vorträgen oder einfachem Bibelstudium gestaltet und oft auch mit Gemeinschaften bei einem Kaffee  umrahmt. 
+
+### Du bist herzlich eingeladen, dabei zu sein!

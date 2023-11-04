@@ -1,12 +1,12 @@
 ---
 title: "Jungscharstunde"
-description: "Dinestag, 19:00 Uhr"
+description: "Dienstag, 19:00 Uhr"
 draft: false
-image : "images/teen.png"
+image : "images/teens.jpg"
 bg_image: "images/jugendstunde1.jpg"
 information:
   - label : "Wann"
-    info : "Dinestag 19:00 Uhr"
+    info : "Dienstag 19:00 Uhr"
   - label : "Wer"
     info : "Teenies zw. 11-15 J."
   - label : "Wo"
@@ -16,6 +16,8 @@ information:
 ggflag: "false"
 ---
 
-Wir laden ganz herzlich zu unseren Teeniestunden ein. Diese werden mit interessanten Themen, Vorträgen oder einfachem Bibelstudium gestaltet und oft auch mit Gemeinschaften bei einem Kaffee umrahmt. 
+## 
 
-Du bist herzlich eingeladen, dabei zu sein!
+### Unsere Jungscharstunden werden ganz unterschiedliche gestaltet. Gemeinsames Singen, Lesen in der Bibel und Gebet, aber auch Spiele und gemeinsames Essen stehen hier gewöhnlich auf dem Plan.  
+
+### Du bist herzlich eingeladen, dabei zu sein!

@@ -10,10 +10,10 @@ banner:
     enable: true
     label: "Zu den Gottesdiensten"
     link: "veranstaltungen/"
-  aktuellesButton:
-    enable: true
-    label: "Erntedankfest am 17.09"
-    link: "aktuelles/erntedank"
+  # aktuellesButton:
+  #   enable: true
+  #   label: "Erntedankfest am 17.09"
+  #   link: "aktuelles/erntedank"
 
 ############################# About #################################
 about:

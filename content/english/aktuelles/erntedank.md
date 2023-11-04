@@ -8,6 +8,6 @@ image : "images/blog/erntedank2023-1.jpg"
 ---
 {{< figure src="../../images/blog/erntedank2023.jpg" width="auto" >}}
 
->Wie jedes Jahr, wollen wir auch in diesem Jahr unser Erntedankfest feiern, um Gott einen kleinen Dank damit auszusprechen, für die vielen schönen Dinge, die wir genießen durfen!
+## Wie jedes Jahr, wollen wir auch in diesem Jahr unser Erntedankfest feiern, um Gott einen kleinen Dank damit auszusprechen, für die vielen schönen Dinge, die wir genießen durfen!
 
-Wir laden herzlich ein!
+## Wir laden herzlich ein!

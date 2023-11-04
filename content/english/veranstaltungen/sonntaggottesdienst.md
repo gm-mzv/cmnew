@@ -22,10 +22,9 @@ information:
 ggflag: "main"
 ---
 
-## Gottesdienst feiern 
+## Gemeinsam Gott verherrlichen, anbeten & den Anweisungen aus Seinem Wort zuhören
 
-Der Sonntaggottesdienst ist für uns jedes Mal wie ein Fest. Wir versammeln uns, um gemeinsam mit Liedern, Zeugnissen und Gebeten
-unseren wunderbaren Gott zu loben und anzubeten. Die Bibel, seine Wort, steht dabei im Mittelpunkt unserer Gottesdienste und wird in den Predigten vorgelesen und ausgelegt, sowie zur Ermutigung und Ermahnung der Anwesenden dargereicht. 
+### Der Sonntaggottesdienst ist für uns jedes Mal wie ein Fest. Wir versammeln uns, um gemeinsam mit Liedern, Zeugnissen und Gebeten unseren wunderbaren Gott zu loben und anzubeten. Die Bibel, sein Wort, steht dabei im Mittelpunkt unserer Gottesdienste und wird in den Predigten vorgelesen und ausgelegt, sowie zur Ermutigung und Ermahnung der Anwesenden dargereicht. 
 
-Erlebe einen unserer Gottesdienste und erfahre mehr über Gott! Wir laden herzlich ein!
+### Erlebe einen unserer Gottesdienste und erfahre mehr über Gott! Wir laden herzlich ein!
 

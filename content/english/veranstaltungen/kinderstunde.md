@@ -2,7 +2,7 @@
 title: "Kinderstunde"
 description: "Dienstag, 18:00 Uhr"
 draft: false
-image : "images/kinderstunde.png"
+image : "images/kind.jpg"
 bg_image: "images/main-bible-small.jpg"
 information:
   - label : "Wann"
@@ -16,6 +16,8 @@ information:
 ggflag: "false"
 ---
 
-Wir laden ganz herzlich zu unseren Kinderstunden am Dienstag ein. Diese werden mit interessanten Geschichten aus der Bibel, gemeinsamem Singen und Spielen gestaltet. 
+## Jesus liebt die Kinder!
 
-Du bist herzlich eingeladen, dabei zu sein!
+### Wir laden ganz herzlich zu unseren Kinderstunden am Dienstag ein. Diese werden mit interessanten Geschichten aus der Bibel, gemeinsamem Singen und Spielen gestaltet. 
+
+### Alle Kinder sind herzlich willkommen!
