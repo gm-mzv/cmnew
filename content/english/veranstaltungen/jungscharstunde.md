@@ -16,8 +16,8 @@ information:
 ggflag: "false"
 ---
 
-## 
+### "Er beschenkt mich mit Freude, denn er ist bei mir."- nach Psalm 16, 11
 
-### Unsere Jungscharstunden werden ganz unterschiedlich gestaltet. Gemeinsames Singen, Lesen in der Bibel und Gebet, aber auch Spiele und gemeinsames Essen stehen hier gewöhnlich auf dem Plan.  
+> Unsere Jungscharstunden werden ganz unterschiedlich gestaltet. Gemeinsames Singen, Lesen in der Bibel und Gebet, aber auch Spiele und gemeinsames Essen stehen hier gewöhnlich auf dem Plan.  
 
 ### Du bist herzlich eingeladen, dabei zu sein!

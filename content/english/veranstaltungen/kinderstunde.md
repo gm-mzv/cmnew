@@ -16,8 +16,8 @@ information:
 ggflag: "false"
 ---
 
-## Jesus liebt die Kinder!
+### Jesus liebt die Kinder!
 
-### Wir laden ganz herzlich zu unseren Kinderstunden am Dienstag ein. Diese werden mit interessanten Geschichten aus der Bibel, gemeinsamem Singen und Spielen gestaltet. 
+> Wir laden ganz herzlich zu unseren Kinderstunden am Dienstag ein. Diese werden mit interessanten Geschichten aus der Bibel, gemeinsamem Singen und Spielen gestaltet. 
 
 ### Alle Kinder sind herzlich willkommen!

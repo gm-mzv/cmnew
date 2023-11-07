@@ -10,10 +10,10 @@ banner:
     enable: true
     label: "Zu den Gottesdiensten"
     link: "veranstaltungen/"
-  # aktuellesButton:
-  #   enable: true
-  #   label: "Erntedankfest am 17.09"
-  #   link: "aktuelles/erntedank"
+  aktuellesButton:
+    enable: true
+    label: "Kammerorchester 12.11."
+    link: "aktuelles/kammerorchester121123"
 
 ############################# About #################################
 about:

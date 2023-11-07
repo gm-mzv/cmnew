@@ -21,9 +21,9 @@ information:
 ggflag: "true"
 ---
 
-## Ich habe Freude an deinen Satzungen und vergesse deine Worte nicht. 
+### "Ich habe Freude an deinen Satzungen und vergesse deine Worte nicht." - Psalm 119, 17
 
-### In unseren Bibelstunden lesen wir gemeinsam die Bibel, hören auf die Gedanken des Auslegers und machen uns gemeinsam Gedanken über das Gelesene. Außerdem findet im Anschluss eine Gebetsgemeinschaft statt, in welcher wir unsere Anliegen vor das Angesicht Gottes bringen.
+> In unseren Bibelstunden lesen wir gemeinsam die Bibel, hören auf die Gedanken des Auslegers und machen uns gemeinsam Gedanken über das Gelesene. Außerdem findet im Anschluss eine Gebetsgemeinschaft statt, in welcher wir unsere Anliegen vor das Angesicht Gottes bringen.
 
 ### Du bist herzlich eingelanden, dabei zu sein!
 
