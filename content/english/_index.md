@@ -10,10 +10,10 @@ banner:
     enable: true
     label: "Zu den Gottesdiensten"
     link: "veranstaltungen/"
-  aktuellesButton:
-    enable: true
-    label: "Kammerorchester 12.11."
-    link: "aktuelles/kammerorchester121123"
+  # aktuellesButton:
+  #   enable: true
+  #   label: "Kammerorchester 12.11."
+  #   link: "aktuelles/kammerorchester121123"
 
 ############################# About #################################
 about:
