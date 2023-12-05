@@ -32,7 +32,7 @@ Hösinghausen 2
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
 custom_script= ""
 # google tag manager, see https://developers.google.com/tag-manager/
-google_tag_manager = "" # example: G-XXXXXXXXXX
+google_tag_manager = "G-K7LD10F3QZ"
 # recaptch v3 site key
 recaptcha_site_key = "xxx-xxxxxxxxxxxxxxxxxxxxxxxx"
 
@@ -102,8 +102,8 @@ map_marker = "images/marker.png"
 [cookies]
 enable = true
 expire_days = 2
-content = "This site uses cookies. By continuing to use this website, you agree to their use."
-button = "I Accept"
+content = "Diese Seite verwendet Cookies. Wenn Sie fortfahren, diese Seite zu nutzen, erklären Sie sich mit der Verweundung von Cookies einverstanden."
+button = "Akzeptieren"
 
 ######################## sidebar widgets #########################
 [widgets]

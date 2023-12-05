@@ -2,18 +2,18 @@
 ############################### Banner ##############################
 banner:
   enable: true
-  bg_image: "images/main-bible-small.jpg"
+  bg_image: "images/christmas-overlay-small.jpg"
   bg_overlay: true
-  title: "Jesus ist der Weg, die Wahrheit und das Leben."
+  title: "Jesus ist das Licht der Welt."
   content: "Sonntaggottesdienste um 10 Uhr in Hösinghausen 2, Meinerzhagen"
   button:
     enable: true
-    label: "Zu den Gottesdiensten"
-    link: "veranstaltungen/"
-  # aktuellesButton:
-  #   enable: true
-  #   label: "Kammerorchester 12.11."
-  #   link: "aktuelles/kammerorchester121123"
+    label: "Unsere Weihnachtsgottesdienste"
+    link: "aktuelles/weihnachtsgottesdienste2023"
+  #aktuellesButton:
+     #enable: true
+     #label: "Zu unsere Weihnachtsgottesdienste"
+    # link: "aktuelles/kammerorchester121123"
 
 ############################# About #################################
 about:
