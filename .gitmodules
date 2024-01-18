@@ -1,6 +1,3 @@
-[submodule "themes/airspace-hugo"] 
-  path = themes/airspace-hugo
-  url = https://github.com/gm-mzv/ch-m
 [submodule "public"]
 	path = public
 	url = https://github.com/gm-mzv/church-ws.git
