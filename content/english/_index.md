@@ -2,14 +2,14 @@
 ############################### Banner ##############################
 banner:
   enable: true
-  bg_image: "images/christmas-overlay-small.jpg"
+  bg_image: "images/main-bible-small.jpg"
   bg_overlay: true
-  title: "Jesus ist das Licht der Welt."
+  title: "Jesus ist das Leben!"
   content: "Sonntaggottesdienste um 10 Uhr in Hösinghausen 2, Meinerzhagen"
   button:
     enable: true
-    label: "Unsere Weihnachtsgottesdienste"
-    link: "aktuelles/weihnachtsgottesdienste2023"
+    label: "Zu den Gottesdiensten"
+    link: "veranstaltungen/"
   #aktuellesButton:
      #enable: true
      #label: "Zu unsere Weihnachtsgottesdienste"
